@@ -1,0 +1,83 @@
+h1 {
+    color:crimson;
+    padding-top: 30px;
+    }
+    
+    .intro{
+       
+        display: flex;
+        justify-content: center;
+    }
+    .about{
+       
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 20px;
+        margin: 10px;
+    }
+    .camel{
+        background-color:rgb(216, 84, 111);
+       display: flex;
+       flex-wrap: wrap;
+       flex-direction: row-reverse;
+       padding-top: 20px;
+       margin: 50px;
+    }
+    p{
+        font-style:italic;
+        font-weight: bold;
+        
+    }
+    li{
+       font-style: oblique;
+       text-transform: uppercase;
+       text-size-adjust: 20px;
+    }
+    .chameleon{
+        background-color:rgb(235, 159, 174);
+       display: flex;
+       flex-wrap: wrap;
+       padding-top: 20px;
+       margin: 50px;
+      
+    }
+    .pigeon{
+        background-color:rgb(216, 84, 111);
+       display: flex;
+       flex-wrap: wrap;
+       flex-direction: row-reverse;
+       padding-top: 20px;
+       margin: 50px;
+    }
+    .teddy-bear{
+        background-color:rgb(235, 159, 174);
+       display: flex;
+       flex-wrap: wrap;
+       padding-top: 20px;
+       margin: 50px;
+       
+      
+    }
+    .panda{
+        background-color:rgb(216, 84, 111);
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row-reverse;
+        padding-top: 20px;
+        margin: 50px;
+    }
+    .cicada{
+        background-color:rgb(235, 159, 174);
+       display: flex;
+       flex-wrap: wrap;
+       padding-top: 20px;
+       margin: 50px;
+      
+    }
+    body{
+        margin: 0px;
+        background-color:rgb(215, 227, 238);
+        
+    }
+    
+    
